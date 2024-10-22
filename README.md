@@ -1,2 +1,2 @@
-# pr-cticaLeonardo
+# practicaLeonardo
 Repositorio para practicar SQL
