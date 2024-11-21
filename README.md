@@ -75,3 +75,5 @@ ProductID (FK): Relación con la tabla Products (opcional).
 Discount: Porcentaje de descuento.
 StartDate: Fecha de inicio de la promoción.
 EndDate: Fecha de fin de la promoción.
+
+los maricos son gays
